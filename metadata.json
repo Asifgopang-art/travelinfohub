@@ -1,0 +1,7 @@
+{
+  "name": "FastestTravel Ltd - Premium Schengen Visa Services",
+  "description": "Specializing in the fastest Schengen visa appointments and premium travel arrangements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
